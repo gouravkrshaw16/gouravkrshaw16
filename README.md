@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="profile_gh.jpeg" height="320px" width="450px">
+  <img src="profile_gh.jpeg" height="300px" width="420px">
 </p>
 <h1 align="center">Hi, I'm Gourav Kumar Shaw🤗</h1>
 <p align="center">
-  <b>A passionate Java developer from India and AI enthusiast. </b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full-Stack+Applications;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Learning+LLMs+%26+Generative+AI;Solving+Problems+with+DSA;Always+Building%2C+Always+Learning+%F0%9F%9A%80"
+    alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="mailto:gouravkrshaw2025@gmail.com"><img src="https://img.shields.io/badge/Email-gouravkrshaw2025@gmail.com-blue?logo=gmail" alt="Email"></a>
