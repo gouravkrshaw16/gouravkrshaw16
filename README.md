@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_gh.jpeg" height="300px" width="420px">
+  <img src="profile_gks.png" height="320px" width="500px">
 </p>
 <h1 align="center">Hi, I'm Gourav Kumar Shaw🤗</h1>
 <p align="center">
