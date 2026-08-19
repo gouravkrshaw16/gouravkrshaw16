@@ -12,9 +12,7 @@
   <a href="https://github.com/gouravkrshaw16"><img src="https://img.shields.io/badge/GitHub-@gouravkrshaw16-black?logo=github"></a>
   <br>
   <a href="https://www.linkedin.com/in/gourav-kumar-shaw-129545390?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Gourav%20Kumar%20Shaw-blue?logo=LinkedIn"></a>
-  <a href="https://leetcode.com/u/Gourav_Kumar_Shaw">
-  <img src="https://img.shields.io/badge/LeetCode-Gourav Kumar Shaw-black?logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+  
 </p>
 
 <br>
